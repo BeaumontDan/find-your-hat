@@ -12,7 +12,7 @@ Challenge Project: Find Your Hat
 
 ## Description
 
-This is a Node.js training/learning project, set by [Codecademy][codecademy], to create a 'maze solver' style game [Find Your Hat][reddit-client-project] application.
+This is a Node.js training/learning project, set by [Codecademy][codecademy], to create a 'maze solver' style game [Find Your Hat][FindYourHat] application.
 
 ## Codecademy Objective
 
@@ -34,8 +34,8 @@ This is a Node.js training/learning project, set by [Codecademy][codecademy], to
 
 ## Application Usage
 
-Download Files From [GitHub][GutHub Repo] run command:
-npm main.js
+Download Files From [GitHub Repo][GutHubRepo] run command:
+```npm main.js```
 
 ## Technologies & Prereqisites
 
@@ -54,7 +54,7 @@ This project was made possible with help from Codecademy's tutorials and courses
 
 [codecademy]: https://www.codecademy.com/
 [fullstackcourse]: https://www.codecademy.com/learn/paths/full-stack-engineer-career-path
-[GitHub Reop]: https://github.com/BeaumontDan/find-your-hat
-[find your hat]: https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-22-introduction-to-back-end/modules/wdcp-22-challenge-project-find-your-hat/projects/find-your-hat
+[GitHubReop]: https://github.com/BeaumontDan/find-your-hat
+[findYourHat]: https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-22-introduction-to-back-end/modules/wdcp-22-challenge-project-find-your-hat/projects/find-your-hat
 
 --------------------------------------------------------------------------------------------
