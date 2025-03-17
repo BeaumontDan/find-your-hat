@@ -54,7 +54,7 @@ This project was made possible with help from Codecademy's tutorials and courses
 
 [codecademy]: https://www.codecademy.com/
 [fullstackcourse]: https://www.codecademy.com/learn/paths/full-stack-engineer-career-path
-[GitHub Reop]: 
+[GitHub Reop]: https://github.com/BeaumontDan/find-your-hat
 [find your hat]: https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-22-introduction-to-back-end/modules/wdcp-22-challenge-project-find-your-hat/projects/find-your-hat
 
 --------------------------------------------------------------------------------------------
